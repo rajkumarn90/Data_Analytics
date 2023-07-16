@@ -1,0 +1,12 @@
+1.	What do you mean by cells in an excel sheet?
+Ans:  a cell refers to a specific rectangular area within a spreadsheet where you can enter, manipulate, and store data. Each cell is identified by a unique combination of a column letter and a row number.
+2.	How can you restrict someone from copying a cell from your worksheet?
+Ans:  If we want to restrict someone from copying cells from the worksheet, we should password protect the worksheet by going to review tab then Protect sheet 
+3.	How to move or copy the worksheet into another workbook?
+Ans: to copy worksheet from one workbook to another, keep both workbooks side by side , drag and drop the worksheet into the new worksheet
+4.	Which key is used as a shortcut for opening a new window document?
+Ans: ctrl + N
+5.	What are the things that we can notice after opening the Excel interface?
+Ans: we can see ribbon tabs, ribbon groups, ribbon controls, name box, formula bar, rows, columns and sheet tabs
+6.	When to use a relative cell reference in excel?
+Ans: whenever we need to repeat the same calculation across multiple rows or columns.
