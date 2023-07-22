@@ -1,0 +1,33 @@
+1.	What does the dollar ($) sign do?
+Ans : When the dollar sign ($) is placed before the column letter and/or row number in a cell reference, it creates an absolute reference. This means that when a formula or reference is copied to other cells, the referenced column or row remains fixed.
+
+2.	How to Change the Reference from Relative to Absolute (or Mixed)?
+Ans: 
+To make the column reference absolute, place a dollar sign before the column letter.
+To make the row reference absolute, place a dollar sign before the row number.
+To create a mixed reference, use the dollar sign for either the column or row part of the reference.
+
+3.	Explain the order of operations in excel?
+Ans : Excel follows the BODMAS rules of arithmetic to determine the order in which calculations in any given formula are performed. 
+The order is – Brackets Of, then Division, then Multiplication, then Addition, then Subtraction.
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax
+for any of two?
+Ans : top 5 excel functions are 
+SUM , AVERAGE, MIN, MAX and VLOOKUP
+Syntax 
+SUM(number1,[number2],...)
+VLOOKUP (lookup_value, table_array, col_index_num, [range_lookup])
+
+4.	When would you use the subtotal function?
+Ans : The SUBTOTAL function is designed to run a given calculation on a range of cells while ignoring cells that should not be included
+
+5.	What is the syntax of the vlookup function? Explain the terms in it?
+Ans : VLOOKUP stands for 'Vertical Lookup'. It is a function that makes Excel search for a certain value in a column in order to return a value from a different column in the same row.
+Syntax is VLOOKUP (lookup_value, table_array, col_index_num, [range_lookup])
+Lookup_value: The value you want to look up. 
+Table_array: The range of cells in which the VLOOKUP will search for the lookup_value and the return value. 
+Col_index_num: The column number that contains the return value.
+range_lookup: A logical value that specifies whether you want VLOOKUP to find an approximate or an exact match:
+Approximate match: 1/TRUE 
+Exact match: 0/FALSE
