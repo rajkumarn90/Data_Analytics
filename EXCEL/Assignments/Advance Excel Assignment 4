@@ -1,0 +1,26 @@
+1. To use the ribbon commands, what menu and grouping of commands will you
+find the Insert and Delete command?
+Ans : 
+In Insert command, we have 
+  o	Insert cells
+  o	Insert Sheet Rows
+  o	Insert Sheet columns
+  o	Insert sheet
+In Delete command, we have 
+  o	Delete cells
+  o	Delete Sheet Rows
+  o	Delete Sheet columns
+  o	Delete sheet
+2. If you set a row height or column width to 0 (zero), what happens to the row and
+column?
+Ans : If we set row or column width to 0 (zero), it will hide the row or column
+3. Is there a need to change the height and width in a cell? Why?
+Ans : yes as per the requirement to represent data in a better way, we should change the height and width in a cell.
+4. What is the keyboard shortcut to unhide rows?
+Ans : Ctrl + Shift + 9
+5. How to hide rows containing blank cells?
+Ans : select the cells , press F5 and then select special select “Blanks” radio button select ok. Now select CTRL+9 to hide the blank cells 
+6. What are the steps to hide the duplicate values using conditional formatting in
+excel?
+Ans : Select the range of cells , go to conditional formatting ,From the dropdown menu, select "Highlight Cells Rules" and then choose "Duplicate Values."
+In the "Duplicate Values" dialog box that appears, you can choose the formatting style you prefer for the duplicate values. By default, Excel will highlight duplicate values with a light red fill color. If you want to hide the duplicates instead of highlighting them, click on the "Custom Format" option.In the "Custom Format" dialog box, choose the "Font" tab.In the "Color" dropdown, select the color of the font that matches the cell background color, effectively making the text invisible.Click "OK" in both the "Custom Format" and "Duplicate Values" dialog boxes to apply the conditional formatting.Now, the duplicate values in the selected range will have their font color set to match the cell background color, making them effectively invisible. Keep in mind that the values are still there, but they are hidden from view.
