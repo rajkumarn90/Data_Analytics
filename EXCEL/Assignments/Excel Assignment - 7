@@ -1,0 +1,42 @@
+1.	Using Insert Function, give examples of any function available in the different dropdowns present in the function library. For example, AutoSum, Recently Used, Text, Date & Time, etc.
+Ans: 
+click on insert command, select AVERAGE function from the "Most Recently Used" dropdown and then give the arguments for the function to calculate average.
+click on insert command, select CONCAT function from the "Text" dropdown and then give the arguments for the function to concatenate two strings.
+click on insert command, select TODAY function from the "Date & Time" dropdown and this will calculate today's date.
+apart from the above functions, there are many other functions availble 
+2.	What are the different ways you can select columns and rows?
+Ans: we can select rows and columns different ways such as click and drag on desired rows and columns and 
+Keyboard shortcuts:
+To select entire column, use CTRL space bar 
+To select entire row use shift + spacebar
+ To select entire worksheet, click on the box on the top left of the speared sheet
+We can also select rows and columns using CTRL click on the selected rows and columns
+We can enter the range directly in the Name Box located to the left of the formula bar.
+to select a range of columns or rows with data, position the cursor in a cell within the range and press "Ctrl + Shift + Arrow Keys"
+To select from the current cell to the last used cell in the worksheet (lower-right corner), press "Ctrl + Shift + End."
+
+3.	What is AutoFit and why do we use it?
+Ans: AutoFit is a feature that allows you to automatically adjust the width of a column or the height of a row to fit the content within the cells. 
+AutoFit Columns:To AutoFit a column, you can double-click on the right edge of the column header (the line between column letters). Alternatively, you can use the "AutoFit Column Width" option in the "Format" menu or the "Home" tab in the ribbon.
+AutoFit Rows:To AutoFit a row, you can double-click on the bottom edge of the row header (the line between row numbers). Alternatively, you can use the "AutoFit Row Height" option in the "Format" menu or the "Home" tab in the ribbon.
+4.	How can you insert new rows and columns into the existing table?
+Ans: select on any cell where you want to insert the row, right click on the cell, select insert then insert Rows above or below based on the requirement.
+In the same way, right click on the cell and select insert, then insert columns left or right of the existing column based on the requirement.
+5.	How do you hide and unhide columns in excel?
+Ans: select the entire column then right click, select hide option to hide the column.
+To unhide select the columns on either side of hidden columns and then right click and select unhide to unhide the columns 
+6.	Create an appropriate table within the worksheet and use different functions available in the AutoSum command.
+Ans: 
+
+
+name	marks
+Raj	10
+Rahul	7
+Siri	8
+Sangeetha	9
+soumya	9
+total	43
+average	8.6
+max 	43
+min	7
+
